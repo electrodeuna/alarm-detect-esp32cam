@@ -4,3 +4,9 @@
 
 ## Video 
 https://www.youtube.com/watch?v=ITurJee3bfU
+
+## Componentes
+
+- Esp32 CAM
+- Buzzer Activo
+- Cables
