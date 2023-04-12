@@ -16,3 +16,5 @@ https://www.youtube.com/watch?v=ITurJee3bfU
 ## Observaciones
 
 En el código reemplazar las variables "ssid" y "password" por los datos de tu red WiFi
+
+![image](https://user-images.githubusercontent.com/85527788/231602685-158f4f8f-5486-40d4-975a-e8cfc0358a28.png)
