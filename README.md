@@ -12,3 +12,7 @@ https://www.youtube.com/watch?v=ITurJee3bfU
 - Esp32 CAM
 - Buzzer Activo
 - Cables
+
+## Observaciones
+
+En el código reemplazar las variables "ssid" y "password" por los datos de tu red WiFi
